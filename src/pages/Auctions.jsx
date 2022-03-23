@@ -28,7 +28,7 @@ export default function Auctions() {
           Auctions
         </h2>
 
-        <p>Live auctions by 21dao artists.</p>
+        <p>Live auctions by LOOKS RARE artists.</p>
 
         {auctionData && <LiveAuctions auctions={auctionData} />}
       </div>
