@@ -21,8 +21,8 @@ export default function MainNavigation(props) {
                 className="flex items-center py-4 px-2"
               >
                 <h1 style={{ fontWeight: "bold", fontSize: "32px" }}>
-                  <span className="text-gray-300">21</span>
-                  <span className="text-gray-400 ml-1">dao</span>
+                  <span className="text-gray-300">looks-rare</span>
+                  <span className="text-gray-400 ml-1">decentralized artist organization</span>
                 </h1>
               </Link>
             </div>
