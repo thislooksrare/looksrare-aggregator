@@ -3,7 +3,7 @@ const dev = {
 };
 
 const prod = {
-  apiHost: "https://api.21dao.xyz",
+  apiHost: "https://dao-api-ifjuivengq-uc.a.run.app",
 };
 
 const config = process.env.REACT_APP_STAGE === "production" ? prod : dev;
