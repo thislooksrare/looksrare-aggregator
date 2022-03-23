@@ -14,31 +14,24 @@ export default function About() {
         <div className="col-span-5 mb-8">
           <h2 className="text-3xl font-extrabold tracking-tight mb-3">About</h2>
           <p className="mb-4 text-lg">
-            21 dao is a non profit organization dedicated to supporting emerging
-            creators on Solana. We believe that creators should have the freedom
-            to spend all of their time creating beauty and we are focused on
-            providing the tools and knowledge to make that possible.
+           LOOKS RARE
           </p>
 
           <p className="text-lg mb-8">
-            We are a community of artists, collectors, and builders who together
-            are dedicated to unlocking as much creativity as possible and
-            shaping a more beautiful world.
+           we are a group of professional artists and web3 developers
+           building the NFT world together with unique collections and 
+           curated drops made for collectors
           </p>
 
           <h2 className="text-2xl font-extrabold tracking-tight my-3">
-            Artist Advisor Program
+            You want to join us?
           </h2>
 
           <p>
-            21 dao's Artist Advisor Program is an initiative to help 1/1 artists
-            grow and establish themselves by giving them access to 1-on-1
-            sessions with experienced individuals in the Solana ecosystem. You
-            can learn more about the program and schedule time with an
-            advisor&nbsp;
+            we are here to help you getting started - book a session with katzenmalen:
             <a
-              href="https://21dao.notion.site/21dao-Artist-Advisor-Program-92274218a9db49b2a1197722f1207d10"
-              title="Artist Advisor Program"
+              href="https://calendly.com/looksrare/30min"
+              title="Book a 30m Session"
               className="underline"
             >
               here
@@ -47,8 +40,8 @@ export default function About() {
           </p>
 
           <div className="mt-12">
-            <TwitterLink url="https://twitter.com/21dao_" style={style} />
-            <DiscordLink url="https://discord.gg/Z3Z5vV822r" style={style} />
+            <TwitterLink url="https://twitter.com/thislooksrare" style={style} />
+            <DiscordLink url="https://discord.gg/JUF7VeH499" style={style} />
           </div>
         </div>
       </div>
