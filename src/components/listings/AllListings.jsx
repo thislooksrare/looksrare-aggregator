@@ -48,7 +48,7 @@ export default function AllListings(props) {
   return (
     <>
       <div className="w-full mb-4">
-        <p>Secondary listings by 21dao artists.</p>
+        <p>Secondary listings by looks rare artists.</p>
       </div>
       <div className="w-full">
         <Select
