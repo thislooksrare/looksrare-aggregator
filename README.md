@@ -1,10 +1,10 @@
-# 21 dao
+# frontend
 
-This is the frontend for the 21 dao website. The 21 dao is a not for profit dao that supports artists and art on the Solana blockchain. Decisions are made by voting/council members of the dao.
+This is the frontend for the looks rare dao website and is based on the work of 21dao
 
 ## Auction and listing data
 
-Auction and listing data is sourced from Exchange.Art, Formfunction and Holaplex and is served by the 21 dao API..
+Auction and listing data is sourced from Exchange.Art, Formfunction and Holaplex and is served by the dao API..
 
 ## Getting started
 
